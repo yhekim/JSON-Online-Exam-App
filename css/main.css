@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  border: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: bisque;
+  font-family: "Poppins", sans-serif;
+  overflow: hidden;
+}
+body .kapsayici {
+  background-color: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 0 1rem 0.2rem rgba(100, 100, 100, 0.1);
+  width: 60rem;
+  overflow: hidden;
+}
+body .kapsayici .soruGoster {
+  padding: 4rem;
+}
+body .kapsayici .soruGoster h2 {
+  padding: 1rem;
+  text-align: center;
+}
+body .kapsayici .soruGoster ul {
+  list-style-type: none;
+}
+body .kapsayici .soruGoster ul li {
+  font-size: 1.6rem;
+  margin: 1rem 0;
+}
+body .kapsayici .soruGoster ul li label {
+  cursor: pointer;
+}
+body .kapsayici button {
+  background-color: #8e44ad;
+  color: #fff;
+  border: none;
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-family: inherit;
+  padding: 1.3rem;
+}
+body .kapsayici button:hover {
+  background-color: #732d91;
+}
+body .kapsayici button:focus {
+  background-color: #5e3370;
+}/*# sourceMappingURL=main.css.map */

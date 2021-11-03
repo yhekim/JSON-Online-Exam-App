@@ -1,0 +1,42 @@
+{
+    "sorular": [{
+            "soru": "Aşağıdakilerden hangisi istemci taraflı bir web programlama dilidir?",
+            "secenekA": "PHP",
+            "secenekB": "ASP",
+            "secenekC": "JS",
+            "secenekD": "JSON",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "soru": "Aşağıdakilerden hangisi JavaScript ile nesne yakalama fonksiyonlarından değildir?",
+            "secenekA": "getElementByID()",
+            "secenekB": "getElementsClassName()",
+            "secenekC": "getSelector()",
+            "secenekD": "querySelectorAll()",
+            "dogruCevap": "secenekC"
+        },
+        {
+            "soru": "Aşağıdakilerden hangisi JavaScript ile ekrana yazdırma fonksiyonlarından değildir?",
+            "secenekA": "alert()",
+            "secenekB": "console.log()",
+            "secenekC": "document.Write()",
+            "secenekD": "addEventListener()",
+            "dogruCevap": "secenekD"
+        }, {
+            "soru": "Aşağıdakilerden hangisi JavaScript ile random sayı oluşturma methodudur?",
+            "secenekA": "Math.random()",
+            "secenekB": "console.log()",
+            "secenekC": "document.Write()",
+            "secenekD": "addEventListener()",
+            "dogruCevap": "secenekA"
+        },
+        {
+            "soru": "Aşağıdakilerden hangisi JavaScript ile döngü oluşturulabilir?",
+            "secenekA": "Math.random()",
+            "secenekB": "querySelectorAll()",
+            "secenekC": "document.Write()",
+            "secenekD": "for",
+            "dogruCevap": "secenekD"
+        }
+    ]
+}
