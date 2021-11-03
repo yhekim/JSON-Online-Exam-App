@@ -1,13 +1,13 @@
 # Frees : JSON Online Exam App - JS 
 
-- https://yhekim.github.io/Find-the-Proverbs-and-Idioms/
+- https://quirky-payne-e1a7e0.netlify.app/
 
-- https://condescending-davinci-f9bde0.netlify.app/
+- https://yhekim.github.io/JSON-Online-Exam-App/
 
 ## Description
 Project aims to create a JSON Online Exam App
 
-![gif](https://raw.githubusercontent.com/yhekim/Find-the-Proverbs-and-Idioms/main/atasozleri_deyim_bulmaca.gif)
+![gif](https://raw.githubusercontent.com/yhekim/JSON-Online-Exam-App/main/Json-Online-Exam-App.gif)
 
 
 ### At the end of the project, following topics are to be covered;
